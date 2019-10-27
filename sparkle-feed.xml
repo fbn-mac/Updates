@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>FinalBurn Neo Changelog</title>
+      <link>https://gist.githubusercontent.com/0xe1f/41db38a020aac3c2bee47dafb6b75229/raw/updates.xml</link>
+      <description>FinalBurn Neo version updates</description>
+      <language>en</language>
+       <item>
+          <title>Version 1.00</title>
+            <description>
+              <![CDATA[
+                <html>
+                  <head>
+                    <style type="text/css">
+                      body {
+                        font-size: 9pt;
+                      }
+                    </style>
+                  </head>
+                  <body>
+                    <ul>
+                      <li>Initial release</li>
+                    </ul>
+                    <p><a href="https://github.com/0xe1f/FBNeo/releases/tag/macos-v1.0">Full list of changes</a></p>
+                  </body>
+                </html>
+              ]]>
+            </description>
+          <pubDate>Thu, 24 Oct 2019 21:11:57 -0700</pubDate>
+          <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+          <enclosure
+             url="https://github.com/0xe1f/FBNeo/releases/download/macos-v1.0/FinalBurn.Neo-v1.0.dmg"
+             length="9569069"
+             type="application/octet-stream"
+             sparkle:version="1"
+             sparkle:shortVersionString="1.0"
+             sparkle:dsaSignature="MEQCIGnpUy+Y6TvvOTez0WWsDbq2B7KFGHmy9pQ6+mL+p+7JAiAwgvZ2Dg8zpP7Y6RnxlZNo1YLyeAg5b2QUy27aC9cuFA=="
+          />
+       </item>
+   </channel>
+</rss>
