@@ -19,7 +19,11 @@
                   </head>
                   <body>
                     <ul>
-                      <li>Initial release</li>
+                     <li>Log viewer</li>
+                     <li>Automatic updates</li>
+                     <li>Basic preferences</li>
+                     <li>DIP switch management</li>
+                     <li>Rendering improvements</li>
                     </ul>
                     <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.01">Full list of changes</a></p>
                   </body>
