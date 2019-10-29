@@ -6,6 +6,38 @@
       <description>FinalBurn Neo version updates</description>
       <language>en</language>
        <item>
+          <title>Version 1.01</title>
+            <description>
+              <![CDATA[
+                <html>
+                  <head>
+                    <style type="text/css">
+                      body {
+                        font-size: 9pt;
+                      }
+                    </style>
+                  </head>
+                  <body>
+                    <ul>
+                      <li>Initial release</li>
+                    </ul>
+                    <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.01">Full list of changes</a></p>
+                  </body>
+                </html>
+              ]]>
+            </description>
+          <pubDate>Tue, 29 Oct 2019 15:21:16 -0700</pubDate>
+          <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+          <enclosure
+             url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.01/FinalBurn.Neo-v1.01.dmg"
+             length="11395693"
+             type="application/octet-stream"
+             sparkle:version="2"
+             sparkle:shortVersionString="1.01"
+             sparkle:dsaSignature="MEQCIHW4Kq8mgCQgS4d8wW6tBkJsbNyY2MXHGHwdj3nQofaUAiAH7L+2di64alB99ubfpLoSB+tryzq9qlipVQer1H4qhQ=="
+          />
+       </item>
+       <item>
           <title>Version 1.00</title>
             <description>
               <![CDATA[
