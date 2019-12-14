@@ -1,111 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <channel>
-      <title>FinalBurn Neo Changelog</title>
-      <link>https://www.akop.org/su-updates/fbn.xml</link>
-      <description>FinalBurn Neo version updates</description>
-      <language>en</language>
-       <item>
-          <title>Version 1.02</title>
-            <description>
-              <![CDATA[
-                <html>
-                  <head>
-                    <style type="text/css">
-                      body {
-                        font-size: 9pt;
-                      }
-                    </style>
-                  </head>
-                  <body>
-                    <ul>
-                     <li>Game launcher</li>
-                     <li>Set importer</li>
-                     <li>Set scanner</li>
-                    </ul>
-                    <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.02">Full list of changes</a></p>
-                  </body>
-                </html>
-              ]]>
-            </description>
-          <pubDate>Sat, 07 Dec 2019 10:26:00 -0800</pubDate>
-          <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-          <enclosure
-             url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.02/FinalBurnNeo-v1.02.dmg"
-             length="11077097"
-             type="application/octet-stream"
-             sparkle:version="3"
-             sparkle:shortVersionString="1.02"
-             sparkle:dsaSignature="MEQCIFXVJvIm6Ivtd7cxTSEdzrOWnIzCtZk+jqtlhyrg2q5qAiBT86lytA/zRwbpeqFJqBzZ76fBM+fq7bgzM6s69V8neg=="
-          />
-       </item>
-       <item>
-          <title>Version 1.01</title>
-            <description>
-              <![CDATA[
-                <html>
-                  <head>
-                    <style type="text/css">
-                      body {
-                        font-size: 9pt;
-                      }
-                    </style>
-                  </head>
-                  <body>
-                    <ul>
-                     <li>Log viewer</li>
-                     <li>Automatic updates</li>
-                     <li>Basic preferences</li>
-                     <li>DIP switch management</li>
-                     <li>Rendering improvements</li>
-                    </ul>
-                    <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.01">Full list of changes</a></p>
-                  </body>
-                </html>
-              ]]>
-            </description>
-          <pubDate>Tue, 29 Oct 2019 15:21:16 -0700</pubDate>
-          <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-          <enclosure
-             url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.01/FinalBurn.Neo-v1.01.dmg"
-             length="11395693"
-             type="application/octet-stream"
-             sparkle:version="2"
-             sparkle:shortVersionString="1.01"
-             sparkle:dsaSignature="MEQCIHW4Kq8mgCQgS4d8wW6tBkJsbNyY2MXHGHwdj3nQofaUAiAH7L+2di64alB99ubfpLoSB+tryzq9qlipVQer1H4qhQ=="
-          />
-       </item>
-       <item>
-          <title>Version 1.00</title>
-            <description>
-              <![CDATA[
-                <html>
-                  <head>
-                    <style type="text/css">
-                      body {
-                        font-size: 9pt;
-                      }
-                    </style>
-                  </head>
-                  <body>
-                    <ul>
-                      <li>Initial release</li>
-                    </ul>
-                    <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.0">Full list of changes</a></p>
-                  </body>
-                </html>
-              ]]>
-            </description>
-          <pubDate>Thu, 24 Oct 2019 21:11:57 -0700</pubDate>
-          <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-          <enclosure
-             url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.0/FinalBurn.Neo-v1.0.dmg"
-             length="9569069"
-             type="application/octet-stream"
-             sparkle:version="1"
-             sparkle:shortVersionString="1.0"
-             sparkle:dsaSignature="MEQCIGnpUy+Y6TvvOTez0WWsDbq2B7KFGHmy9pQ6+mL+p+7JAiAwgvZ2Dg8zpP7Y6RnxlZNo1YLyeAg5b2QUy27aC9cuFA=="
-          />
-       </item>
-   </channel>
+  <channel>
+    <title>FinalBurn Neo Changelog</title>
+    <link>https://www.akop.org/su-updates/fbn.xml</link>
+    <description>FinalBurn Neo version updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.03</title>
+        <description>
+          <![CDATA[
+            <html>
+              <head>
+                <style type="text/css">
+                  body {
+                    font-size: 9pt;
+                  }
+                </style>
+              </head>
+              <body>
+                <ul>
+                  <li>Compatibility with macOS El Capitan (10.11)</li>
+                  <li>Software renderer support</li>
+                  <li>Minor UI changes</li>
+                </ul>
+                <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.03">Full list of changes</a></p>
+              </body>
+            </html>
+          ]]>
+        </description>
+      <pubDate>Fri, 13 Dec 2019 21:17:45 -0800</pubDate>
+      <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.03/FinalBurn.Neo-v1.03.dmg"
+        length="11553026"
+        type="application/octet-stream"
+        sparkle:version="4"
+        sparkle:shortVersionString="1.03"
+        sparkle:dsaSignature="MEMCH0grMfv7cySj834BxNXqlXZSSS+OzzWcA4Q3UCVYrcwCIGdKHdmvFKvkWwJiKh7CuArX0AItkNTlPGdGsX1INsHo"
+      />
+    </item>
+    <item>
+      <title>Version 1.02</title>
+        <description>
+          <![CDATA[
+            <html>
+              <head>
+                <style type="text/css">
+                  body {
+                    font-size: 9pt;
+                  }
+                </style>
+              </head>
+              <body>
+                <ul>
+                  <li>Game launcher</li>
+                  <li>Set importer</li>
+                  <li>Set scanner</li>
+                </ul>
+                <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.02">Full list of changes</a></p>
+              </body>
+            </html>
+          ]]>
+        </description>
+      <pubDate>Sat, 07 Dec 2019 10:26:00 -0800</pubDate>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.02/FinalBurnNeo-v1.02.dmg"
+        length="11077097"
+        type="application/octet-stream"
+        sparkle:version="3"
+        sparkle:shortVersionString="1.02"
+        sparkle:dsaSignature="MEQCIFXVJvIm6Ivtd7cxTSEdzrOWnIzCtZk+jqtlhyrg2q5qAiBT86lytA/zRwbpeqFJqBzZ76fBM+fq7bgzM6s69V8neg=="
+      />
+    </item>
+    <item>
+      <title>Version 1.01</title>
+        <description>
+          <![CDATA[
+            <html>
+              <head>
+                <style type="text/css">
+                  body {
+                    font-size: 9pt;
+                  }
+                </style>
+              </head>
+              <body>
+                <ul>
+                  <li>Log viewer</li>
+                  <li>Automatic updates</li>
+                  <li>Basic preferences</li>
+                  <li>DIP switch management</li>
+                  <li>Rendering improvements</li>
+                </ul>
+                <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.01">Full list of changes</a></p>
+              </body>
+            </html>
+          ]]>
+        </description>
+      <pubDate>Tue, 29 Oct 2019 15:21:16 -0700</pubDate>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.01/FinalBurn.Neo-v1.01.dmg"
+        length="11395693"
+        type="application/octet-stream"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.01"
+        sparkle:dsaSignature="MEQCIHW4Kq8mgCQgS4d8wW6tBkJsbNyY2MXHGHwdj3nQofaUAiAH7L+2di64alB99ubfpLoSB+tryzq9qlipVQer1H4qhQ=="
+      />
+    </item>
+    <item>
+      <title>Version 1.00</title>
+        <description>
+          <![CDATA[
+            <html>
+              <head>
+                <style type="text/css">
+                  body {
+                    font-size: 9pt;
+                  }
+                </style>
+              </head>
+              <body>
+                <ul>
+                  <li>Initial release</li>
+                </ul>
+                <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.0">Full list of changes</a></p>
+              </body>
+            </html>
+          ]]>
+        </description>
+      <pubDate>Thu, 24 Oct 2019 21:11:57 -0700</pubDate>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.0/FinalBurn.Neo-v1.0.dmg"
+        length="9569069"
+        type="application/octet-stream"
+        sparkle:version="1"
+        sparkle:shortVersionString="1.0"
+        sparkle:dsaSignature="MEQCIGnpUy+Y6TvvOTez0WWsDbq2B7KFGHmy9pQ6+mL+p+7JAiAwgvZ2Dg8zpP7Y6RnxlZNo1YLyeAg5b2QUy27aC9cuFA=="
+      />
+    </item>
+  </channel>
 </rss>
