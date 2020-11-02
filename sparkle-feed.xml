@@ -6,6 +6,38 @@
     <description>FinalBurn Neo version updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.0.0</title>
+        <description>
+          <![CDATA[
+            <html>
+              <head>
+                <style type="text/css">
+                  body {
+                    font-size: 9pt;
+                  }
+                </style>
+              </head>
+              <body>
+                <ul>
+                  <li>Latest FinalBurn Neo drivers</li>
+                </ul>
+                <p><a href="https://github.com/fbn-mac/FBNeo/releases/tag/macos-v1.0.0.0">Full list of changes</a></p>
+              </body>
+            </html>
+          ]]>
+        </description>
+      <pubDate>Sun, 01 Nov 2020 22:47:11 -0800</pubDate>
+      <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/fbn-mac/FBNeo/releases/download/macos-v1.0.0.0/FinalBurnNeo-v1.0.0.0.dmg"
+        length="11563822"
+        type="application/octet-stream"
+        sparkle:version="6"
+        sparkle:shortVersionString="1.0.0.0"
+        sparkle:dsaSignature="MEQCIFemzuEU1h2XM6ypvDRWjgv0xpiqfTm5M5KAN5svcIxTAiABjclAO0o/Ii/SrR7fiYJQIxZX6wHbDXa8voJOj7IUgw=="
+      />
+    </item>
+    <item>
       <title>Version 1.04</title>
         <description>
           <![CDATA[
