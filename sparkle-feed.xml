@@ -6,6 +6,38 @@
     <description>FinalBurn Neo version updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.0.2</title>
+        <description>
+          <![CDATA[
+            <html>
+              <head>
+                <style type="text/css">
+                  body {
+                    font-size: 9pt;
+                  }
+                </style>
+              </head>
+              <body>
+                <ul>
+                  <li>Latest FinalBurn Neo drivers</li>
+                </ul>
+                <p><a href="https://github.com/finalburnneo/FBNeo/releases/tag/v1.0.0.2">Full list of changes</a></p>
+              </body>
+            </html>
+          ]]>
+        </description>
+      <pubDate>Sun, 02 May 2021 13:24:17 -0700</pubDate>
+      <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/finalburnneo/FBNeo/releases/download/v1.0.0.2/FinalBurnNeo-v1.0.0.2.dmg"
+        length="21103682"
+        type="application/octet-stream"
+        sparkle:version="7"
+        sparkle:shortVersionString="1.0.0.2"
+        sparkle:dsaSignature="MEUCIAIiXXxVpZkDqNRJrrkNJp5TpCVzmPgA2bl/+BizhTm/AiEAjjMc0zTYUOzt2xjj2Dldg3C1jZLkMZu1mQ8j/ICO/3M="
+      />
+    </item>
+    <item>
       <title>Version 1.0.0.0</title>
         <description>
           <![CDATA[
